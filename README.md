@@ -106,9 +106,5 @@ project/
 
 ## 许可证 License
 
-MIT License
+MIT License 
 
-## 项目团队 Project Team
-
-- 首席科学家 | Chief Scientist: lunazhang
-- 研究机构 | Institution: [机构名称 | Institution Name]
